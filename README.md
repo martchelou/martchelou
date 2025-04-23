@@ -25,7 +25,6 @@ Here I am, **killing a bug** for a day, but he looks like a lion, ok?!.
 ![CSS3](https://img.shields.io/badge/css3-333333.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-333333.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-333333.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-333333.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-333333.svg?style=for-the-badge&logo=git&logoColor=white)
